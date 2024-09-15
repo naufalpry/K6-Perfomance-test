@@ -1,0 +1,409 @@
+{
+    "metrics": {
+        "checks": {
+            "passes": 71,
+            "fails": 0,
+            "value": 1
+        },
+        "vus": {
+            "value": 1,
+            "min": 1,
+            "max": 1
+        },
+        "data_received": {
+            "count": 40297,
+            "rate": 1151.296903949291
+        },
+        "vus_max": {
+            "max": 1,
+            "value": 1,
+            "min": 1
+        },
+        "login_duration": {
+            "p(90)": 289.5,
+            "p(95)": 290.25,
+            "avg": 280.8333333333333,
+            "min": 268,
+            "med": 283,
+            "max": 291
+        },
+        "profile_info_duration": {
+            "p(90)": 36,
+            "p(95)": 36,
+            "avg": 36,
+            "min": 36,
+            "med": 36,
+            "max": 36
+        },
+        "InquiryPospaidPLNTrend_duration": {
+            "avg": 216,
+            "min": 216,
+            "med": 216,
+            "max": 216,
+            "p(90)": 216,
+            "p(95)": 216
+        },
+        "http_req_sending": {
+            "max": 0.417,
+            "p(90)": 0.32699999999999996,
+            "p(95)": 0.3859999999999999,
+            "avg": 0.20510344827586205,
+            "min": 0.08,
+            "med": 0.197
+        },
+        "bannerInfoTrend_duration": {
+            "p(95)": 39,
+            "avg": 39,
+            "min": 39,
+            "med": 39,
+            "max": 39,
+            "p(90)": 39
+        },
+        "data_sent": {
+            "count": 14824,
+            "rate": 423.52595240698537
+        },
+        "customerInfoPointTrend_duration": {
+            "max": 47,
+            "p(90)": 47,
+            "p(95)": 47,
+            "avg": 47,
+            "min": 47,
+            "med": 47
+        },
+        "http_req_connecting": {
+            "avg": 0.14575862068965517,
+            "min": 0,
+            "med": 0,
+            "max": 4.227,
+            "p(90)": 0,
+            "p(95)": 0
+        },
+        "notificationTrend_duration": {
+            "min": 52,
+            "med": 52,
+            "max": 52,
+            "p(90)": 52,
+            "p(95)": 52,
+            "avg": 52
+        },
+        "http_req_duration": {
+            "avg": 133.13068965517243,
+            "min": 14.237,
+            "med": 50.975,
+            "max": 490.238,
+            "p(90)": 288.2604,
+            "p(95)": 345.9255999999998
+        },
+        "menu_duration": {
+            "avg": 29,
+            "min": 29,
+            "med": 29,
+            "max": 29,
+            "p(90)": 29,
+            "p(95)": 29
+        },
+        "getLastThreeTrxPostpaidPLNTrend_duration": {
+            "avg": 60.575500000000005,
+            "min": 39.653,
+            "med": 60.575500000000005,
+            "max": 81.498,
+            "p(90)": 77.3135,
+            "p(95)": 79.40575000000001
+        },
+        "http_req_waiting": {
+            "avg": 132.71310344827583,
+            "min": 13.859,
+            "med": 50.764,
+            "max": 489.654,
+            "p(90)": 287.91020000000003,
+            "p(95)": 345.5501999999998
+        },
+        "balance_duration": {
+            "avg": 390.5,
+            "min": 291,
+            "med": 390.5,
+            "max": 490,
+            "p(90)": 470.1,
+            "p(95)": 480.04999999999995
+        },
+        "http_reqs": {
+            "count": 29,
+            "rate": 0.82853835805468
+        },
+        "http_req_tls_handshaking": {
+            "p(95)": 0,
+            "avg": 0.9533448275862069,
+            "min": 0,
+            "med": 0,
+            "max": 27.647,
+            "p(90)": 0
+        },
+        "http_req_duration{expected_response:true}": {
+            "p(90)": 288.2604,
+            "p(95)": 345.9255999999998,
+            "avg": 133.13068965517243,
+            "min": 14.237,
+            "med": 50.975,
+            "max": 490.238
+        },
+        "InquiryPrepaidPLNTrend_duration": {
+            "min": 160,
+            "med": 160,
+            "max": 160,
+            "p(90)": 160,
+            "p(95)": 160,
+            "avg": 160
+        },
+        "http_req_receiving": {
+            "p(95)": 0.48979999999999957,
+            "avg": 0.21248275862068972,
+            "min": 0.072,
+            "med": 0.168,
+            "max": 0.682,
+            "p(90)": 0.3566
+        },
+        "http_req_failed": {
+            "passes": 0,
+            "fails": 29,
+            "value": 0
+        },
+        "menuV2_duration": {
+            "p(95)": 32,
+            "avg": 32,
+            "min": 32,
+            "med": 32,
+            "max": 32,
+            "p(90)": 32
+        },
+        "http_req_blocked": {
+            "min": 0,
+            "med": 0.001,
+            "max": 66.542,
+            "p(90)": 0.002,
+            "p(95)": 0.002,
+            "avg": 2.2956551724137957
+        },
+        "BannerPromoTrend_duration": {
+            "avg": 65,
+            "min": 65,
+            "med": 65,
+            "max": 65,
+            "p(90)": 65,
+            "p(95)": 65
+        },
+        "InquiryTransaksi_duration": {
+            "min": 384,
+            "med": 384,
+            "max": 384,
+            "p(90)": 384,
+            "p(95)": 384,
+            "avg": 384
+        },
+        "GetFavoriteBillPaymentPostpaidPLN_duration": {
+            "min": 20.741,
+            "med": 20.7785,
+            "max": 20.816,
+            "p(90)": 20.8085,
+            "p(95)": 20.81225,
+            "avg": 20.7785
+        }
+    },
+    "root_group": {
+        "name": "",
+        "path": "",
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "groups": {},
+        "checks": {
+                "status code is 200": {
+                    "id": "67273a3878e5de0e52cbb3fc1a7fb615",
+                    "passes": 29,
+                    "fails": 0,
+                    "name": "status code is 200",
+                    "path": "::status code is 200"
+                },
+                "response success create jwt accessToken": {
+                    "fails": 0,
+                    "name": "response success create jwt accessToken",
+                    "path": "::response success create jwt accessToken",
+                    "id": "ee1cd62de3fdf3d5634e66afd4e271d6",
+                    "passes": 7
+                },
+                "response success create accessToken login": {
+                    "path": "::response success create accessToken login",
+                    "id": "155be96c6d5143bb6a3976a4d1b0a786",
+                    "passes": 6,
+                    "fails": 0,
+                    "name": "response success create accessToken login"
+                },
+                "response success get data balance": {
+                    "name": "response success get data balance",
+                    "path": "::response success get data balance",
+                    "id": "c8bd60e795ecab1ff4201350abf06202",
+                    "passes": 2,
+                    "fails": 0
+                },
+                "response success data saving displayed": {
+                    "path": "::response success data saving displayed",
+                    "id": "11b1484e2ec73441ada131ef506a381d",
+                    "passes": 2,
+                    "fails": 0,
+                    "name": "response success data saving displayed"
+                },
+                "response success data giro displayed": {
+                    "name": "response success data giro displayed",
+                    "path": "::response success data giro displayed",
+                    "id": "2c66a81649518f6e9826a0e234518f2b",
+                    "passes": 2,
+                    "fails": 0
+                },
+                "response success data deposit displayed": {
+                    "name": "response success data deposit displayed",
+                    "path": "::response success data deposit displayed",
+                    "id": "89ba5d942c9522cbef8bd1f860ef5fc3",
+                    "passes": 2,
+                    "fails": 0
+                },
+                "response success get data menu": {
+                    "passes": 1,
+                    "fails": 0,
+                    "name": "response success get data menu",
+                    "path": "::response success get data menu",
+                    "id": "33743af7edc828ae796b8ca53f00314d"
+                },
+                "response success menu TRANSFER displayed": {
+                    "path": "::response success menu TRANSFER displayed",
+                    "id": "2b6045be5bd9a2d6910f44bf3d14568d",
+                    "passes": 1,
+                    "fails": 0,
+                    "name": "response success menu TRANSFER displayed"
+                },
+                "response success menu PURCHASE displayed": {
+                    "id": "9259d595ea2097a5cea12e9949ecffc6",
+                    "passes": 1,
+                    "fails": 0,
+                    "name": "response success menu PURCHASE displayed",
+                    "path": "::response success menu PURCHASE displayed"
+                },
+                "response success menu PAYMENT displayed": {
+                    "fails": 0,
+                    "name": "response success menu PAYMENT displayed",
+                    "path": "::response success menu PAYMENT displayed",
+                    "id": "b3860edfec74eb215221960feca5ea2f",
+                    "passes": 1
+                },
+                "response success menu TOPUP displayed": {
+                    "name": "response success menu TOPUP displayed",
+                    "path": "::response success menu TOPUP displayed",
+                    "id": "a8a57f46eee81b18e29813f54d23a6f1",
+                    "passes": 1,
+                    "fails": 0
+                },
+                "response success menu CARDLESS WD displayed": {
+                    "name": "response success menu CARDLESS WD displayed",
+                    "path": "::response success menu CARDLESS WD displayed",
+                    "id": "6deb5f44c007dc99993369cf7380e0dc",
+                    "passes": 1,
+                    "fails": 0
+                },
+                "response success menu INVESTMENT displayed": {
+                    "name": "response success menu INVESTMENT displayed",
+                    "path": "::response success menu INVESTMENT displayed",
+                    "id": "d8cd8f9664b24e1e03117a1f2eb7e4f7",
+                    "passes": 1,
+                    "fails": 0
+                },
+                "response success menu OTHER displayed": {
+                    "path": "::response success menu OTHER displayed",
+                    "id": "b439eea7747baeee77b110f3a83349bc",
+                    "passes": 1,
+                    "fails": 0,
+                    "name": "response success menu OTHER displayed"
+                },
+                "response success get data menu v2": {
+                    "id": "81640ed4d7ca4d637811c7d32b4462f7",
+                    "passes": 1,
+                    "fails": 0,
+                    "name": "response success get data menu v2",
+                    "path": "::response success get data menu v2"
+                },
+                "response success get data banner promo": {
+                    "name": "response success get data banner promo",
+                    "path": "::response success get data banner promo",
+                    "id": "ccbdfa66796d850eb3dcbc610e782595",
+                    "passes": 2,
+                    "fails": 0
+                },
+                "response success get data customer info point": {
+                    "name": "response success get data customer info point",
+                    "path": "::response success get data customer info point",
+                    "id": "941994cf4f34b968d97dd6e04be411b2",
+                    "passes": 1,
+                    "fails": 0
+                },
+                "response success get data notification retail": {
+                    "id": "eb12c949b8a34e9894cf494cae70e772",
+                    "passes": 1,
+                    "fails": 0,
+                    "name": "response success get data notification retail",
+                    "path": "::response success get data notification retail"
+                },
+                "response success get data profile info": {
+                    "name": "response success get data profile info",
+                    "path": "::response success get data profile info",
+                    "id": "2b1718ee2cbb5e2b846e6c9a87ef8ff7",
+                    "passes": 1,
+                    "fails": 0
+                },
+                "response success get favorite bill payment postpaid": {
+                    "path": "::response success get favorite bill payment postpaid",
+                    "id": "f33d5978743e323954e26d52e87a10db",
+                    "passes": 1,
+                    "fails": 0,
+                    "name": "response success get favorite bill payment postpaid"
+                },
+                "response success get last three transaction postpaid PLN": {
+                    "name": "response success get last three transaction postpaid PLN",
+                    "path": "::response success get last three transaction postpaid PLN",
+                    "id": "50f450eb6276066c6a2f29c8ead5844a",
+                    "passes": 1,
+                    "fails": 0
+                },
+                "response success create inquiry postpaid PLN": {
+                    "path": "::response success create inquiry postpaid PLN",
+                    "id": "ce47c452b1aba13109069efc6d076423",
+                    "passes": 1,
+                    "fails": 0,
+                    "name": "response success create inquiry postpaid PLN"
+                },
+                "response success get favorite prepaid PLN": {
+                    "name": "response success get favorite prepaid PLN",
+                    "path": "::response success get favorite prepaid PLN",
+                    "id": "0dfee85288840cc4f2acf62efe9fad36",
+                    "passes": 1,
+                    "fails": 0
+                },
+                "response success get last three transaction prepaid PLN": {
+                    "fails": 0,
+                    "name": "response success get last three transaction prepaid PLN",
+                    "path": "::response success get last three transaction prepaid PLN",
+                    "id": "1096f6506747efeadf81293e7aac170d",
+                    "passes": 1
+                },
+                "response success create inquiry prepaid PLN": {
+                    "passes": 1,
+                    "fails": 0,
+                    "name": "response success create inquiry prepaid PLN",
+                    "path": "::response success create inquiry prepaid PLN",
+                    "id": "5d751921c1943c8acdfacccc058c0e1a"
+                },
+                "response success check inquiry transaksi": {
+                    "name": "response success check inquiry transaksi",
+                    "path": "::response success check inquiry transaksi",
+                    "id": "366d30f24957a3463456132a63a5fd6b",
+                    "passes": 1,
+                    "fails": 0
+                }
+            }
+    }
+}
